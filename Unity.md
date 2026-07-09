@@ -131,6 +131,7 @@
 * [dotween](https://github.com/Demigiant/dotween) A Unity C# animation engine. HOTween v2
 * [unity-tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
 * [MagicTween](https://github.com/AnnulusGames/MagicTween)  Extremely fast tween library implemented in Unity ECS
+* [LitMotion](https://github.com/annulusgames/LitMotion) Lightning-fast and Zero Allocation Tween Library for Unity. 
 #### FileFormat
 * [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) A tool to export any Unity GameObject into a FBX ASCII format
 * [GLTFUtility](https://github.com/Siccity/GLTFUtility) Lightweight GLTF importer for Unity
